@@ -39,3 +39,6 @@ The project analyzes student academic performance based on:
 The main objective of this project is to understand student performance
 and practice basic Python, data analysis, visualization, mathematical,
 and linear algebra concepts.
+
+Author
+Swathi Byra
